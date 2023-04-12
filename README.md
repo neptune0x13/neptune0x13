@@ -15,7 +15,7 @@ As of Aug 2022
 - 🌐 Tryhackme account : [Neptune0x13](https://tryhackme.com/p/neptune0x13)
 
 <h3 align="left">Badges:</h3>
-<h5 align="left">Codewars:</h5><br>
+<h5 align="left">Codewars:</h5>
 <img align="left" src="https://www.codewars.com/users/neptune0x13/badges/large" alt="codeware badge" />
 <br>
 <h5 align="left">Tryhackeme:</h5><br>
