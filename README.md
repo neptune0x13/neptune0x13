@@ -18,7 +18,7 @@ As of Aug 2022
 <h5 align="left">Codewars:</h5>
 <img align="left" src="https://www.codewars.com/users/neptune0x13/badges/large" alt="codeware badge" />
 <br>
-<h5 align="left">Tryhackeme:</h5><br>
+<h5 align="left">Tryhackme:</h5>
 <img src="https://tryhackme-badges.s3.amazonaws.com/neptune0x13.png" alt="TryHackMe">
 <br>
 <h3 align="left">Connect with me:</h3>
