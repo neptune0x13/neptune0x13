@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhythin Raj</h1>
-<h3 align="center">I'm a Cybersecurity Enthusiast looking to crack CTF's and build security solution</h3>
+<h3 align="center">I'm a Cybersecurity Enthusiast looking to crack CTF's and build security solutions</h3>
 
 As of April 2023 
 - 🔭 I’m currently working on a __Cybersecuirty Framework__
