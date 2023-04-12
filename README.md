@@ -20,7 +20,6 @@ As of Aug 2022
 <br>
 <h5 align="left">Tryhackme:</h5>
 <img src="https://tryhackme-badges.s3.amazonaws.com/neptune0x13.png" alt="TryHackMe">
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rhythin-raj-18b101214/" target="blank">
