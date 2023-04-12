@@ -18,7 +18,7 @@ As of Aug 2022
 
 <h3 align="left">Badges:</h3>
 <img align="left" src="https://www.codewars.com/users/neptune0x13/badges/large" alt="codeware badge" />
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rhythin-raj-18b101214/" target="blank">
