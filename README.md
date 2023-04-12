@@ -64,5 +64,5 @@ As of April 2023
 <p>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neptune0x13&theme=react&line_height=40&hide=css"/>
 &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neptune0x13&show_icons=true&locale=en&layout=compact" alt="neptune0x13"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=neptune0x13&show_icons=true&locale=en&layout=compact" alt="neptune0x13"/>
 </p>
