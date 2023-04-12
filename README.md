@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhythin Raj</h1>
 <h3 align="center">I'm a Cybersecurity Enthusiast looking to crack CTF's and build security solution</h3>
 
-As of Aug 2022 
+As of April 2023 
 - 🔭 I’m currently working on a __Cybersecuirty Framework__
 
 - 👯 I’m looking to collaborate on **Cybersecuirty tool / ML model Development**
