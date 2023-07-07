@@ -21,7 +21,7 @@ As of April 2023
 <h4 align="left">Tryhackme:</h4>
 <img src="https://tryhackme-badges.s3.amazonaws.com/neptune0x13.png" alt="TryHackMe">
 <h4 align="left">CEH:</h4>
-<img src="https://aspen.eccouncil.org/Content/Badges/TrainedBadges/W_YTGERBPBJ24V.png" alt="WAHS">
+<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png" alt="WAHS">
 <h4 align="left">EC-Council WAHS:</h4>
 <img src="https://aspen.eccouncil.org/Content/Badges/TrainedBadges/W_YTGERBPBJ24V.png" alt="WAHS">
 <h3 align="left">Connect with me:</h3>
